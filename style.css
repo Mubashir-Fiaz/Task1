@@ -1,0 +1,260 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.img1{
+    background-image: url(./img_6.jpg);
+    background-size:100% 100%;
+    position:;
+}
+.logo{
+    font-family: 'Playfair Display', serif
+}
+.hover:hover{
+    cursor: pointer;
+}
+.hover1:hover{
+    cursor: pointer;
+    color:white;
+}
+.drop1{
+    visibility: hidden;
+    transition-duration:1s;
+}
+.hover1:hover .drop1{
+    visibility: visible;
+}
+.logo1{
+    font-family: 'Playfair Display', serif;
+}
+/* ++++++++++++++++++sec 2++++++++++++++++++++ */
+.img2{
+background-image: url(./img_1\ \(1\).jpg);
+background-size:100% 100%;
+}
+/* ++++++++++++++++++++++sec 3+++++++++++++++++++++++++++ */
+.img3{
+    background-image: url(./img_1\ \(1\).jpg);
+    background-size: 100% 100%;
+}
+.img3:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+.img4{
+    background-image: url(./img_2.jpg);
+    background-size: 100% 100%;
+}
+.img4:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+.img5{
+    background-image: url(./img_3.jpg);
+    background-size: 100% 100%;
+}
+.img5:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+.img6{
+    background-image: url(./img_4.jpg);
+    background-size: 100% 100%;
+}
+.img6:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+.img7{
+    background-image: url(./img_5.jpg);
+    background-size: 100% 100%;
+}
+.img7:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+.img8{
+    background-image: url(./img_6.jpg);
+    background-size: 100% 100%;
+}
+.img8:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    cursor: pointer;
+}
+/* ++++++++++++sec 4+++++++++++++ */
+.img9{
+background-image: url(./img_4.jpg);
+background-size:100% 100%;
+}
+.run{
+    background-color: rgba(255, 255, 255, 0.301);
+}
+.img10{
+    background-size:100% 100%;
+    background-image: url(./hero_2.jpg);
+}
+/* ++++++++++++++sec 5++++++++++++++++= */
+.img11{
+    background-image: linear-gradient(rgba(143, 227, 219, 0.836),rgba(143, 227, 219, 0.842)),url(./img_1\ \(1\).jpg);
+    background-size: 100% 100%;
+}
+.btn1{
+    background-color:rgba(135, 206, 250, 0.829);
+}
+.card1{
+    border: 2px dotted darkgray;
+}
+/* ================sec 6================= */
+.img12{
+background-image: url(./Screenshot\ \(6\).png);
+background-size:100% 100%;
+}
+.img13{
+    background-image: url(./Screenshot\ \(7\).png);
+    background-size:100% 100%;
+    }
+    .img14{
+        background-image: url(./Screenshot\ \(9\).png);
+        background-size:100% 100%;
+        }
+        .img30{
+            background-image: url(./Screenshot\ \(8\).png);
+            background-size:100% 100%;
+            }
+            /* ===========sec 7================= */
+.box1{
+    background-image: url(./img_1\ \(1\).jpg);
+    background-size:100% 100%;
+}
+.box1:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_1\ \(1\).jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box2{
+    background-image: url(./img_2.jpg);
+    background-size:100% 100%;
+}
+.box2:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_2.jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box3{
+    background-image: url(./img_3.jpg);
+    background-size:100% 100%;
+}
+.box3:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_3.jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box4{
+    background-image: url(./img_4.jpg);
+    background-size:100% 100%;
+}
+.box4:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_4.jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box5{
+    background-image: url(./img_4.jpg);
+    background-size:100% 100%;
+}
+.box5:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_4.jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box6{
+    background-image: url(./img_5.jpg);
+    background-size:100% 100%;
+}
+.box6:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_5.jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box7{
+    background-image: url(./img_6.jpg);
+    background-size:100% 100%;
+}
+.box7:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_6.jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box8{
+    background-image: url(./img_7.jpg);
+    background-size:100% 100%;
+}
+.box8:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_7.jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box9{
+    background-image: url(./img_1\ \(1\).jpg);
+    background-size:100% 100%;
+}
+.box9:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_1\ \(1\).jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box10{
+    background-image: url(./img_2.jpg);
+    background-size:100% 100%;
+}
+.box10:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_2.jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box11{
+    background-image: url(./img_3.jpg);
+    background-size:100% 100%;
+}
+.box11:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_3.jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+.box12{
+    background-image: url(./img_4.jpg);
+    background-size:100% 100%;
+}
+.box12:hover{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.466),rgba(255, 255, 255, 0.493)),url(./img_4.jpg);
+    background-size:100% 100%;
+cursor:pointer;
+}
+/* ============================= */
+.img15{
+    background-image: url(./img_1\ \(1\).jpg);
+    background-size:100% 100%;
+}
+.img16{
+    background-image: url(./img_2.jpg);
+    background-size:100% 100%;
+}
+.img17{
+    background-image: url(./img_3.jpg);
+    background-size:100% 100%;
+}
+/* ====================================== */
+.img18{
+    background-image: url(./person_4.jpg);
+    background-size:100% 100%;
+}
+.img19{
+    background-image: url(./person_1.jpg);
+    background-size:100% 100%;
+}
